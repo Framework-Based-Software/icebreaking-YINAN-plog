@@ -3,7 +3,7 @@
 Hi! I'm Yennifer, a student in the Framework-Based Software Design and Development course. 
 I expect to learn a lot about modern software maintenance practices and how to work with legacy systems.
 
-![My Image](image.jpg)  <!-- Link to the uploaded image -->
+![My Image](image.jpg)  <!--profile.jpg -->
 
 ## GitHub Profile
 
