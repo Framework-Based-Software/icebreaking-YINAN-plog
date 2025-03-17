@@ -7,5 +7,7 @@ I expect to learn a lot about modern software maintenance practices and how to w
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile [here, insert link to your github profile]
+## 🌟 GitHub Profile  
+
+You can view my personalized GitHub profile [(https://github.com/YINAN-plog]
 
